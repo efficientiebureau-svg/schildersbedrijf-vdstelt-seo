@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HousePainter",
+  "name": "Schildersbedrijf vd Stelt",
+  "url": "https://schildersbedrijfvdstelt.nl/",
+  "description": "Schildersbedrijf vd Stelt helpt met binnenschilderwerk, buitenschilderwerk, lak spuiten en latexspuiten in Raamsdonksveer en omgeving.",
+  "areaServed": [
+    "Raamsdonksveer",
+    "Geertruidenberg",
+    "Raamsdonk",
+    "Oosterhout",
+    "Made",
+    "Drimmelen",
+    "Wagenberg",
+    "Terheijden",
+    "Dongen",
+    "Waspik",
+    "Breda",
+    "Waalwijk",
+    "Kaatsheuvel",
+    "Loon op Zand",
+    "Sprang-Capelle",
+    "Rijen",
+    "Gilze",
+    "Tilburg",
+    "Etten-Leur",
+    "Zevenbergen"
+  ],
+  "serviceType": [
+    "Binnenschilderwerk",
+    "Buitenschilderwerk",
+    "Lak spuiten",
+    "Latexspuiten"
+  ]
+}

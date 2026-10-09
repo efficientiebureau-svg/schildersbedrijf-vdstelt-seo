@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Doet Schildersbedrijf vd Stelt ook buitenschilderwerk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, Schildersbedrijf vd Stelt voert buitenschilderwerk uit en vermeldt 3 jaar garantie op buitenschilderwerk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kan ik een offerte per e-mail ontvangen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, na inventarisatie ontvangt u een duidelijke offerte per e-mail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Doet Schildersbedrijf vd Stelt ook latexspuiten?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, Schildersbedrijf vd Stelt is gespecialiseerd in latexspuiten voor muren en plafonds."
+      }
+    }
+  ]
+}
